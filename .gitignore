@@ -1,0 +1,5 @@
+# Ignore Zend stuff
+Zend/
+
+# Ignore tempfile
+uploads/temp
